@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568546436527",
+    "project_id": "cashmates-c1984",
+    "storage_bucket": "cashmates-c1984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568546436527:android:ccc38960e4320b50567b5a",
+        "android_client_info": {
+          "package_name": "com.example.cashmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSoyOtH76zyynDfzKI761wPSlRYnRgRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
